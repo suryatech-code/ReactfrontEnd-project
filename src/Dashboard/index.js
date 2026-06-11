@@ -2,7 +2,7 @@ import Cards from '../Cards'
 import {useState} from 'react'
 import { useHistory } from 'react-router-dom' 
 import './index.css'
-import { FaPlus } from "react-icons/fa6";
+
 import { FaTasks } from "react-icons/fa";
 
 import PopUp from '../PopUp'
