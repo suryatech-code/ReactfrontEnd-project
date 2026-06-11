@@ -36,6 +36,8 @@ const randomColor = colors[Math.floor(Math.random() * colors.length)];
 
     case "HIGH":
       return "high-level";
+    default: 
+      return "";
 
   }
 };
